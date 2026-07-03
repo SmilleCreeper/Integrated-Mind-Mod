@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "integrated_mind:block/neuron_block" }
+  }
+}

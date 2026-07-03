@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "integrated_mind:block/precision_memory_side",
+    "down": "integrated_mind:block/precision_memory_top",
+    "up": "integrated_mind:block/precision_memory_top",
+    "north": "integrated_mind:block/precision_memory_float",
+    "south": "integrated_mind:block/precision_memory_side",
+    "west": "integrated_mind:block/precision_memory_side",
+    "east": "integrated_mind:block/precision_memory_side"
+  }
+}

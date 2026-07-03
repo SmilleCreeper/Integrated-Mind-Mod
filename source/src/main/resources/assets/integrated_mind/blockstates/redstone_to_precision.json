@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "integrated_mind:block/redstone_to_precision", "y": 0 },
+    "facing=east":  { "model": "integrated_mind:block/redstone_to_precision", "y": 90 },
+    "facing=south": { "model": "integrated_mind:block/redstone_to_precision", "y": 180 },
+    "facing=west":  { "model": "integrated_mind:block/redstone_to_precision", "y": 270 }
+  }
+}

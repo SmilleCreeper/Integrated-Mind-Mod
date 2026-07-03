@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "integrated_mind:item/neuron_hub"
+  }
+}

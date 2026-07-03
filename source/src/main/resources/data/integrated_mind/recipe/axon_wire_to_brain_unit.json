@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "integrated_mind:axon_wire"
+    },
+    {
+      "item": "integrated_mind:axon_wire"
+    },
+    {
+      "item": "integrated_mind:axon_wire"
+    },
+    {
+      "item": "integrated_mind:axon_wire"
+    }
+  ],
+  "result": {
+    "id": "integrated_mind:brain_unit",
+    "count": 1
+  }
+}

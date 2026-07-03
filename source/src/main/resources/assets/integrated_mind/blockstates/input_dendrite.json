@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down":  { "model": "integrated_mind:block/dendrite", "x": 90 },
+    "facing=up":    { "model": "integrated_mind:block/dendrite", "x": -90 },
+    "facing=north": { "model": "integrated_mind:block/dendrite" },
+    "facing=south": { "model": "integrated_mind:block/dendrite", "y": 180 },
+    "facing=east":  { "model": "integrated_mind:block/dendrite", "y": 90 },
+    "facing=west":  { "model": "integrated_mind:block/dendrite", "y": 270 }
+  }
+}

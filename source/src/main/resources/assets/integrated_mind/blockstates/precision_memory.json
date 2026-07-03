@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "integrated_mind:block/precision_memory", "y": 0 },
+    "facing=east":  { "model": "integrated_mind:block/precision_memory", "y": 90 },
+    "facing=south": { "model": "integrated_mind:block/precision_memory", "y": 180 },
+    "facing=west":  { "model": "integrated_mind:block/precision_memory", "y": 270 }
+  }
+}

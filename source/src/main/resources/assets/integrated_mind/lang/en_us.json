@@ -1,0 +1,20 @@
+{
+  "item.integrated_mind.brain_unit": "Brain Unit",
+  "item.integrated_mind.axon_wire": "Axon Wire",
+  "item.integrated_mind.neuron_hub": "Neuron Hub",
+  "item.integrated_mind.sensory_receptor": "Sensory Receptor",
+  "item.integrated_mind.glands_sac": "Glands Sac",
+  "item.integrated_mind.tune_membrane": "Tune Membrane",
+  "item.integrated_mind.timbre_muscle": "Timbre Muscle",
+  "item.integrated_mind.heart_pump": "Heart Pump",
+  "item.integrated_mind.ponder_kidney": "Ponder Kidney",
+  "block.integrated_mind.redstone_to_precision": "Redstone to Precision",
+  "block.integrated_mind.precision_memory": "Precision Memory",
+  "block.integrated_mind.neuron_block": "Neuron Block",
+  "block.integrated_mind.input_dendrite": "Input Dendrite",
+  "block.integrated_mind.output_dendrite": "Output Dendrite",
+  "item.integrated_mind.perfect_wire": "Perfect Wire",
+  "block.integrated_mind.doctrine_watcher": "Doctrine Watcher",
+  "block.integrated_mind.smart_bubble": "Smart Bubble",
+  "creativetab.integrated_mind": "Integrated Mind"
+}

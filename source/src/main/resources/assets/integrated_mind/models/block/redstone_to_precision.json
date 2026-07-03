@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "integrated_mind:block/redstone_to_precision_front",
+    "down": "integrated_mind:block/redstone_to_precision_bottom",
+    "up": "integrated_mind:block/redstone_to_precision_top",
+    "north": "integrated_mind:block/redstone_to_precision_front",
+    "south": "integrated_mind:block/redstone_to_precision_back",
+    "east": "integrated_mind:block/redstone_to_precision_side",
+    "west": "integrated_mind:block/redstone_to_precision_side"
+  }
+}
