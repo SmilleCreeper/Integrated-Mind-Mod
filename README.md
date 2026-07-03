@@ -1,6 +1,8 @@
 # Integrated Mind
 
-A NeoForge mod for Minecraft 1.21.1 that adds a fully functional **neural network** system to the game. Build, train, and run artificial neural networks using redstone-powered blocks. The mod introduces blocks that form the components of a neural network including input layers, hidden neurons, weighted connections, and output nodes, all controllable via redstone. The network computes forward passes and backpropagates errors for gradient-based learning, entirely in-game.
+NeoForge mod for Minecraft 1.21.1 that adds a fully functional **neural network** system to the game. Build, train, and run artificial neural networks using redstone-powered blocks.
+
+The Integrated Mind introduces blocks that form the components of a neural network including input layers, hidden neurons, weighted connections, and output nodes, all controllable via redstone. The network computes forward passes and backpropagates errors for gradient-based learning, entirely in-game.
 
 ## Items
 
